@@ -1,6 +1,6 @@
 # Irc-code
 
-VB6 working copy of `Irc-code` from Dave Robinson's OneDrive Historical Dev `VB/Old` folder. Project title: IRCPre2. Output: `ircpre2.exe`. `VersionCompanyName`: Cool Software Corporation.
+Educational VB4 IRC preface client `IRCPre2` (`ircpre2.exe`) by Dann M. Daggett II (Dasmius / Cool Software Corporation, 1996). Connects via Winsock (`WINSCK.OCX`) to an IRC server (default port 6667) with Setup for nick/server/port, About, and the included `Ircpre2.txt` tutorial plus `Rfc1459.hlp`. Example-only basic chat client, not a full IRC suite; author permits reuse with credit.
 
 **Source last updated:** 1996-06-01 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
@@ -10,7 +10,7 @@ _Note: original OneDrive LastWriteTime values were wiped to 2026-08-27 by a zip 
 
 | Project | Language | Type | Purpose |
 |---------|----------|------|---------|
-| `IRCPre2` (`Ircpre2.vbp`) | VB6 | WinForms exe | IRCPre2 |
+| `IRCPre2` (`Ircpre2.vbp`) | VB6 | WinForms exe | Educational Winsock IRC preface client |
 
 ## How to open
 
@@ -19,7 +19,7 @@ Open the `.vbp` in Visual Basic 6.0 IDE:
 
 ## Requirements
 
-- Visual Basic 6.0 IDE
+- Visual Basic 6.0 IDE (originally VB4 Pro with Microsoft Internet Control Pack)
 - Registered OCX/DLL dependencies referenced by the `.vbp` (may need to be installed separately):
   - `COMCTL32.OCX`
   - `COMDLG32.OCX`
@@ -30,8 +30,8 @@ Open the `.vbp` in Visual Basic 6.0 IDE:
 ## Attribution and provenance
 
 Working copy from Dave Robinson's OneDrive Historical Dev folder `VB/Old/Irc-code`.
-Company names in project files: Cool Software Corporation.
+Original author: Dann M. Daggett II (Dasmius); Cool Software Corporation, 1996. See `About.frm` and `Ircpre2.txt`.
 
 ## License
 
-MIT © 2026 VaderConsulting for Dave Robinson's code. See `LICENSE`.
+Third-party educational sample remains under its original terms (author permits reuse with credit). See `Ircpre2.txt`. Do not treat this tree as VaderConsulting original MIT-licensed work.
