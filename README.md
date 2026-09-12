@@ -1,6 +1,6 @@
 # Irc-code
 
-Educational VB4 IRC preface client `IRCPre2` (`ircpre2.exe`) by Dann M. Daggett II (Dasmius / Cool Software Corporation, 1996). Connects via Winsock (`WINSCK.OCX`) to an IRC server (default port 6667) with Setup for nick/server/port, About, and the included `Ircpre2.txt` tutorial plus `Rfc1459.hlp`. Example-only basic chat client, not a full IRC suite; author permits reuse with credit.
+Educational VB4/6 IRC preface client `IRCPre2` (`ircpre2.exe`) by Dann M. Daggett II (Dasmius / Cool Software Corporation, 1996). Connects via Winsock (`WINSCK.OCX`) to an IRC server (default port 6667) with Setup for nick/server/port, About, and the included tutorial text plus RFC help. Example-only basic chat client, not a full IRC suite; author permits reuse with credit.
 
 **Source last updated:** 1996-06-01 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
@@ -30,8 +30,8 @@ Open the `.vbp` in Visual Basic 6.0 IDE:
 ## Attribution and provenance
 
 Working copy from Dave Robinson's OneDrive Historical Dev folder `VB/Old/Irc-code`.
-Original author: Dann M. Daggett II (Dasmius); Cool Software Corporation, 1996. See `About.frm` and `Ircpre2.txt`.
+Original author: Dann M. Daggett II (Dasmius); Cool Software Corporation, 1996. See About form and tutorial text.
 
 ## License
 
-Third-party educational sample remains under its original terms (author permits reuse with credit). See `Ircpre2.txt`. Do not treat this tree as VaderConsulting original MIT-licensed work.
+Third-party educational sample remains under its original terms (author permits reuse with credit). Do not treat this tree as VaderConsulting original MIT-licensed work.
