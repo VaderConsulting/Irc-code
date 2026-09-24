@@ -29,7 +29,7 @@ Open the `.vbp` in Visual Basic 6.0 IDE:
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `VB/Old/Irc-code`.
+Working copy from my Historical Dev folder `VB/Old/Irc-code`.
 Original author: Dann M. Daggett II (Dasmius); Cool Software Corporation, 1996. See About form and tutorial text.
 
 ## License
