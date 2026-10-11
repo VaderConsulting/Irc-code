@@ -34,4 +34,4 @@ Original author: Dann M. Daggett II (Dasmius); Cool Software Corporation, 1996. 
 
 ## License
 
-Third-party educational sample remains under its original terms (author permits reuse with credit). Do not treat this tree as VaderConsulting original MIT-licensed work.
+Third-party educational sample remains under its original terms (author permits reuse with credit). Do not treat this tree as Vader Consulting original MIT-licensed work.
